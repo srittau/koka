@@ -1,4 +1,4 @@
-import kokaLogo from "/public/koka.svg";
+import kokaLogo from "/koka.svg";
 import "./App.css";
 
 export default function App() {
